@@ -1,8 +1,8 @@
 ## Olá eu sou o Aleff Kelvin, Seja bem vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/aleffstampini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleffstampini&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleffstampini&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleffstampini&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleffstampini&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
 <div style="display: inline_block"><br>

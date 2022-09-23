@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/aleffstampini">
-  <img height="180em" src="https://github-readmestats.vercel.app/apiusername=aleffstampini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readmestats.vercel.app/api?username=aleffstampini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleffstampini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
